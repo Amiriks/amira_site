@@ -1,0 +1,100 @@
+body {
+    margin: 0px;
+}
+
+h1 {
+    display: inline;
+}
+
+header,
+h2 {
+
+    background-color: #fdfd53;
+
+    text-align: center;
+    padding: 15px;
+
+}
+
+nav a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid OrangeRed;
+    border-radius: 10px;
+    background-color: Salmon;
+    padding: 2px;
+    margin: 10px;
+
+}
+
+main {
+    background-color: lightblue;
+    text-align: center;
+    padding: 15px;
+}
+
+img {
+    height: 100px;
+}
+
+.red {
+    color: red;
+
+}
+
+.blue {
+    color: blue;
+
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: orange;
+}
+
+.purple {
+    color: purple;
+}
+
+.image {
+
+    width: 100px;
+    height: 200px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    border: 2px solid black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.blablabla {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid rgb(253, 124, 236);
+    border-radius: 10px;
+    background-color: rgb(252, 13, 224);
+    padding: 2px;
+    margin: 2px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(255, 150, 251);
+
+}
+
+header {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1Xi8VoMRNQ8l_lv2046M2x15lqWWeWuGFg&s)
+}
